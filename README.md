@@ -25,3 +25,9 @@ Dieses Projekt analysiert den **Telco Customer Churn**-Datensatz, um vorherzusag
 4. **Modellierung:** Einsatz von ML-Modellen wie logistischer Regression oder Random Forest zur Vorhersage.
 5. **Evaluation:** Genauigkeit, Präzision, Recall, Konfusionsmatrix und ROC-Kurve zur Leistungsbewertung.
 
+### Verwendete Tools & Technologien
+
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
